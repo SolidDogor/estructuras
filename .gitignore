@@ -1,0 +1,6 @@
+# --- Ejecutables y Compilados ---
+*.exe
+*.dll
+*.o
+*.obj
+*.out
